@@ -1,0 +1,17 @@
+.flex-containers {
+    display:flex;
+    list-style-type: none;
+}
+
+.flex-items {
+    text-align: center;
+    flex: 1;
+}
+
+.food-names {
+    text-decoration: none;
+}
+
+#title {
+    text-align: center;
+}
